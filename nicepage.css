@@ -38302,8 +38302,13 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 38px auto 0 0;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-header .u-menu-1 {
-  margin: -37px 0 43px auto;
+  margin: -37px 0 5px auto;
 }
 
 .u-header .u-nav-1 {
